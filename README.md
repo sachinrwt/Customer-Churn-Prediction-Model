@@ -101,8 +101,11 @@ After running the pipeline, generated outputs are saved in:
 
 - `outputs/figures/`
   - distribution plots
+  - ![1779049618581](outputs/figures/distribution_plots.png)
   - churn segment plots
+  - ![1779049618582](outputs/figures/churn_by_segment.png)
   - correlation heatmap
+  - ![1779049618583](outputs/figures/correlation_heatmap.png)
   - confusion matrices
   - ROC curves
   - model comparison chart
@@ -151,6 +154,7 @@ The pipeline follows these steps:
 9. Evaluate all models
 10. Save metrics, plots, and model summaries
 
+
 ## Business Insights
 
 This project is designed to support decision-making, not just model training. In this dataset, customers with the highest churn risk often belong to segments such as:
@@ -167,8 +171,6 @@ This project is designed to support decision-making, not just model training. In
 - Bundle value-added services such as tech support or online security
 - Review pricing and support quality for high-charge customers
 
-![1779049618582](outputs/figures/churn_by_segment.png)
-![1779049618583](outputs/figures/correlation_heatmap.png)
 
 ## Tech Stack
 
