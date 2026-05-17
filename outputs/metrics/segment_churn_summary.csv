@@ -1,0 +1,15 @@
+Contract,churn_rate,customers,segment,InternetService,PaymentMethod,TenureGroup
+Month-to-month,0.4270967741935484,3875,Contract,,,
+One year,0.11269517990495587,1473,Contract,,,
+Two year,0.02831858407079646,1695,Contract,,,
+,0.4189276485788114,3096,InternetService,Fiber optic,,
+,0.1895910780669145,2421,InternetService,DSL,,
+,0.07404980340760157,1526,InternetService,No,,
+,0.4528541226215645,2365,PaymentMethod,,Electronic check,
+,0.19106699751861042,1612,PaymentMethod,,Mailed check,
+,0.16709844559585493,1544,PaymentMethod,,Bank transfer (automatic),
+,0.15243101182654403,1522,PaymentMethod,,Credit card (automatic),
+,0.47438243366880145,2186,TenureGroup,,,0-12 Months
+,0.287109375,1024,TenureGroup,,,13-24 Months
+,0.2038895859473024,1594,TenureGroup,,,25-48 Months
+,0.09513175524787852,2239,TenureGroup,,,49-72 Months
