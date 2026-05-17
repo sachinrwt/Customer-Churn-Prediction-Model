@@ -101,12 +101,13 @@ After running the pipeline, generated outputs are saved in:
 
 - `outputs/figures/`
   - distribution plots
-  - ![1779049618581](outputs/figures/distribution_plots.png)
+   ![distribution plots](outputs/figures/distribution_plots.png)
   - churn segment plots
-  - ![1779049618582](outputs/figures/churn_by_segment.png)
+   ![churn segment plots](outputs/figures/churn_by_segment.png)
   - correlation heatmap
-  - ![1779049618583](outputs/figures/correlation_heatmap.png)
+   ![correlation heatmap](outputs/figures/correlation_heatmap.png)
   - confusion matrices
+    ![confusion matrices](outputs/figures/logistic_regression_confusion_matrix.png)
   - ROC curves
   - model comparison chart
   - feature importance chart
