@@ -167,6 +167,8 @@ This project is designed to support decision-making, not just model training. In
 - Bundle value-added services such as tech support or online security
 - Review pricing and support quality for high-charge customers
 
+![1779049618582](image/README/1779049618582.png)
+
 ## Tech Stack
 
 - Python
