@@ -168,6 +168,7 @@ This project is designed to support decision-making, not just model training. In
 - Review pricing and support quality for high-charge customers
 
 ![1779049618582](outputs/figures/churn_by_segment.png)
+![1779049618583](outputs/figures/correlation_heatmap.png)
 
 ## Tech Stack
 
